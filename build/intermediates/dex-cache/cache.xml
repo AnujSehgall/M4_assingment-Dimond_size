@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/anuj/AndroidStudioProjects/m4-assignment-diamond-sizes-skeleton/app/libs/mobilecloud.handin-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d0ffa75b489bf8eb2a13b37de382793f726a44f4">
+        <dex dex="/home/anuj/AndroidStudioProjects/m4-assignment-diamond-sizes-skeleton/app/build/intermediates/transforms/dex/debug/folders/1000/2/mobilecloud.handin-1.0.0_0dfdfa8a953b583d22c7e99c11ccd001f60fa9dc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anuj/AndroidStudioProjects/m4-assignment-diamond-sizes-skeleton/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/home/anuj/AndroidStudioProjects/m4-assignment-diamond-sizes-skeleton/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_df461fe50e4c05e75f060ee9ac1c7f355ea78bee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anuj/AndroidStudioProjects/m4-assignment-diamond-sizes-skeleton/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f87d50fb52701fb993d878128fadd65c428d41a0">
+        <dex dex="/home/anuj/AndroidStudioProjects/m4-assignment-diamond-sizes-skeleton/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_8946176c9075c3b79fe75a218fd3042c0f95f94a/classes.dex" />
+    </item>
+
+</items>
